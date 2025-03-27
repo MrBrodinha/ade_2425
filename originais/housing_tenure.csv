@@ -1,164 +1,122 @@
-
-Quadro extraído em 07 de Março de 2023 (15:30:08)
-http://www.ine.pt
-
-
-
-Período de referência dos dados;Local de residência (à data dos Censos 2021);Agregados domésticos privados (N.º) nos alojamentos familiares clássicos de residência habitual por Local de residência (à data dos Censos 2021), Regime de ocupação e Dimensão (Agregado Doméstico Privado) -  Decenal;;;
-;;Regime de ocupação;;;
-;;Total;Propriedade ou copropriedade;Arrendamento ou subarrendamento;
-;;Dimensão (Agregado Doméstico Privado);;;
-;;Total;;;
-;;N.º ;N.º ;N.º ;
-2021;PT: Portugal;4142581;2900093;922810;
-;17: Área Metropolitana de Lisboa;1191363;758598;347994;
-;170: Área Metropolitana de Lisboa;1191363;758598;347994;
-;150201: Alcochete;5144;3566;1124;
-;150202: Samouco;1325;821;406;
-;150203: São Francisco;942;698;172;
-;150303: Costa da Caparica;6569;3775;1980;
-;150312: União das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas;22546;13302;7781;
-;150313: União das freguesias de Caparica e Trafaria;10723;5205;4576;
-;150314: União das freguesias de Charneca de Caparica e Sobreda;18864;14531;2854;
-;150315: União das freguesias de Laranjeiro e Feijó;16783;10567;5158;
-;111513: Águas Livres;16688;10365;5312;
-;111512: Alfragide;6636;4426;1784;
-;111514: Encosta do Sol;11246;5323;5328;
-;111515: Falagueira-Venda Nova;9369;5258;3484;
-;111516: Mina de Água;17418;11659;4670;
-;111517: Venteira;12156;7244;4182;
-;150407: Santo António da Charneca;4545;3490;752;
-;150409: União das freguesias de Alto do Seixalinho, Santo André e Verderena;18669;12453;5207;
-;150410: União das freguesias de Barreiro e Lavradio;9666;6450;2673;
-;150411: União das freguesias de Palhais e Coina;1466;1094;242;
-;110501: Alcabideche;16605;10350;4810;
-;110506: São Domingos de Rana;22766;16246;4770;
-;110507: União das freguesias de Carcavelos e Parede;19975;13405;5019;
-;110508: União das freguesias de Cascais e Estoril;27119;16435;8356;
-;110601: Ajuda;6549;2957;3219;
-;110602: Alcântara;6668;2750;3487;
-;110654: Alvalade;14765;7633;5791;
-;110655: Areeiro;9452;4703;3788;
-;110656: Arroios;15025;6130;7674;
-;110657: Avenidas Novas;10432;5008;4488;
-;110607: Beato;5713;2258;2987;
-;110658: Belém;7154;4282;2294;
-;110608: Benfica;16488;9441;5877;
-;110659: Campo de Ourique;10370;4145;5480;
-;110610: Campolide;6636;3000;3141;
-;110611: Carnide;7430;4300;2601;
-;110660: Estrela;8921;3688;4558;
-;110618: Lumiar;19547;13204;4864;
-;110621: Marvila;14104;6351;7052;
-;110661: Misericórdia;4864;1631;2926;
-;110633: Olivais;13986;9788;3193;
-;110662: Parque das Nações;9023;5703;2847;
-;110663: Penha de França;13241;5732;6560;
-;110664: Santa Clara;9188;3839;4795;
-;110665: Santa Maria Maior;4545;1101;3134;
-;110666: Santo António;5163;2123;2610;
-;110639: São Domingos de Benfica;15852;9690;4824;
-;110667: São Vicente;6928;2412;4121;
-;110702: Bucelas;1923;1177;584;
-;110705: Fanhões;1088;627;309;
-;110707: Loures;11871;8039;3056;
-;110708: Lousa;1323;782;387;
-;110731: União das freguesias de Camarate, Unhos e Apelação;12937;5343;6616;
-;110726: União das freguesias de Moscavide e Portela;9542;5715;3177;
-;110727: União das freguesias de Sacavém e Prior Velho;10188;5934;3724;
-;110728: União das freguesias de Santa Iria de Azoia, São João da Talha e Bobadela;18046;11815;4770;
-;110729: União das freguesias de Santo Antão e São Julião do Tojal;3301;1931;824;
-;110730: União das freguesias de Santo António dos Cavaleiros e Frielas;11333;8484;2149;
-;110902: Carvoeira;1157;796;239;
-;110904: Encarnação;1814;1374;269;
-;110906: Ericeira;5052;3194;1375;
-;110909: Mafra;7929;5454;1948;
-;110911: Milharado;2756;2123;414;
-;110913: Santo Isidoro;1734;1277;262;
-;110918: União das freguesias de Azueira e Sobral da Abelheira;1725;1309;259;
-;110919: União das freguesias de Enxara do Bispo, Gradil e Vila Franca do Rosário;1477;1084;236;
-;110920: União das freguesias de Igreja Nova e Cheleiros;1795;1249;397;
-;110921: União das freguesias de Malveira e São Miguel de Alcainça;3711;2459;1046;
-;110922: União das freguesias de Venda do Pinheiro e Santo Estêvão das Galés;4002;2940;711;
-;150601: Alhos Vedros;6495;4798;1301;
-;150603: Moita;7155;5322;1382;
-;150607: União das freguesias de Baixa da Banheira e Vale da Amoreira;12917;8132;3981;
-;150608: União das freguesias de Gaio-Rosário e Sarilhos Pequenos;922;627;237;
-;150701: Canha;605;399;84;
-;150704: Sarilhos Grandes;1280;814;312;
-;150709: União das freguesias de Atalaia e Alto Estanqueiro-Jardia;2074;1447;425;
-;150710: União das freguesias de Montijo e Afonsoeiro;16620;10926;4699;
-;150711: União das freguesias de Pegões;1525;969;337;
-;111603: Odivelas;24709;16772;6472;
-;111608: União das freguesias de Pontinha e Famões;14164;8376;4712;
-;111609: União das freguesias de Póvoa de Santo Adrião e Olival Basto;8058;4889;2665;
-;111610: União das freguesias de Ramada e Caneças;13188;9408;2826;
-;111002: Barcarena;5790;4417;1028;
-;111009: Porto Salvo;5815;3661;1752;
-;111012: União das freguesias de Algés, Linda-a-Velha e Cruz Quebrada-Dafundo;21099;14027;5644;
-;111013: União das freguesias de Carnaxide e Queijas;14571;10190;3511;
-;111014: União das freguesias de Oeiras e São Julião da Barra, Paço de Arcos e Caxias;25738;16841;6884;
-;150802: Palmela;7180;5370;1240;
-;150803: Pinhal Novo;10580;7927;1877;
-;150804: Quinta do Anjo;5528;4144;940;
-;150806: União das freguesias de Poceirão e Marateca;3334;2330;472;
-;151002: Amora;20197;14247;4433;
-;151005: Corroios;20674;16233;3137;
-;151006: Fernão Ferro;7567;6356;606;
-;151007: União das freguesias do Seixal, Arrentela e Aldeia de Paio Pires;19096;13887;4018;
-;151103: Quinta do Conde;10587;8297;1571;
-;151101: Sesimbra (Castelo);8048;6096;1262;
-;151102: Sesimbra (Santiago);1922;1028;748;
-;151207: Gâmbia-Pontes-Alto da Guerra;2486;2002;297;
-;151208: Sado;2106;1622;298;
-;151205: Setúbal (São Sebastião);21678;14379;5920;
-;151209: União das freguesias de Azeitão (São Lourenço e São Simão);7911;6378;939;
-;151210: União das freguesias de Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça);16988;10728;5064;
-;111102: Algueirão-Mem Martins;26946;18799;6567;
-;111115: Casal de Cambra;5045;2670;1924;
-;111105: Colares;3193;1800;1005;
-;111108: Rio de Mouro;19266;13958;4144;
-;111122: União das freguesias de Agualva e Mira-Sintra;16860;11900;3924;
-;111123: União das freguesias de Almargem do Bispo, Pêro Pinheiro e Montelavar;6857;3786;2349;
-;111125: União das freguesias de Massamá e Monte Abraão;19616;14648;3735;
-;111126: União das freguesias de Queluz e Belas;20861;13939;5648;
-;111127: União das freguesias de São João das Lampas e Terrugem;7139;4000;2200;
-;111128: União das freguesias de Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim);11470;7834;2708;
-;111124: União das freguesias do Cacém e São Marcos;15894;10968;4017;
-;111412: União das freguesias de Alhandra, São João dos Montes e Calhandriz;5138;3447;1352;
-;111413: União das freguesias de Alverca do Ribatejo e Sobralinho;15054;10920;3337;
-;111414: União das freguesias de Castanheira do Ribatejo e Cachoeiras;3238;2231;807;
-;111415: União das freguesias de Póvoa de Santa Iria e Forte da Casa;16182;12289;3150;
-;111408: Vialonga;8182;5904;1808;
-;111409: Vila Franca de Xira;7847;4828;2542;
-
-Agregados domésticos privados (N.º) nos alojamentos familiares clássicos de residência habitual por Local de residência (à data dos Censos 2021), Regime de ocupação e Dimensão (Agregado Doméstico Privado) -  Decenal - INE, Recenseamento da população e habitação - Censos 2021
-
-
-Última atualização destes dados: 23 de novembro de 2022
-
-
-Metainformação associada ao quadro
-
-Agregados domésticos privados (N.º) nos alojamentos familiares clássicos de residência habitual
-Designação;Agregados domésticos privados (N.º) nos alojamentos familiares clássicos de residência habitual por Local de residência (à data dos Censos 2021), Regime de ocupação e Dimensão (Agregado Doméstico Privado) -  Decenal
-Periodicidade;Decenal
-Fonte;INE, Recenseamento da população e habitação - Censos 2021
-Primeiro período disponível;2021
-Último período disponível;2021
-Dimensões
-     Dimensão 1;Período de referência dos dados
-     Dimensão 2;Local de residência (à data dos Censos 2021)
-     Dimensão 3;Regime de ocupação
-     Dimensão 4;Dimensão (agregado doméstico privado)
-Conceitos
-     ALOJAMENTO FAMILIAR;Alojamento que, normalmente, se destina a alojar apenas uma família e não é totalmente utilizado para outros fins no momento de referência.
-     PERÍODO DE REFERÊNCIA;Período de tempo a que a informação se refere e que pode ser um dia específico ou um intervalo de tempo (mês, ano fiscal, ano civil, entre outros).
-     ALOJAMENTO FAMILIAR DE RESIDÊNCIA HABITUAL;Alojamento familiar ocupado que constitui a residência habitual ou principal de pelo menos um agregado doméstico privado.
-     CONDIÇÃO DE OCUPAÇÃO DO ALOJAMENTO FAMILIAR;Condição mediante a qual a família dispõe ou usufrui de um alojamento na totalidade ou em parte, de acordo com as seguintes modalidades: proprietário ou coproprietário; arrendatário ou subarrendatário; outra situação.
-     AGREGADO DOMÉSTICO PRIVADO;Conjunto de pessoas que tem a residência habitual no alojamento familiar ou a pessoa independente que ocupa um alojamento familiar.
-Definição;
-Fórmula;
-Unidade de Medida (símbolo);Número (N.º)
-Potência de 10;0
-Data da última atualização;23-Nov-2022
+,Dimensão (Agregado Doméstico Privado),,
+PT: Portugal,4142581,2900093,922810
+17: Área Metropolitana de Lisboa,1191363,758598,347994
+170: Área Metropolitana de Lisboa,1191363,758598,347994
+150201: Alcochete,5144,3566,1124
+150202: Samouco,1325,821,406
+150203: São Francisco,942,698,172
+150303: Costa da Caparica,6569,3775,1980
+"150312: União das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas",22546,13302,7781
+150313: União das freguesias de Caparica e Trafaria,10723,5205,4576
+150314: União das freguesias de Charneca de Caparica e Sobreda,18864,14531,2854
+150315: União das freguesias de Laranjeiro e Feijó,16783,10567,5158
+111513: Águas Livres,16688,10365,5312
+111512: Alfragide,6636,4426,1784
+111514: Encosta do Sol,11246,5323,5328
+111515: Falagueira-Venda Nova,9369,5258,3484
+111516: Mina de Água,17418,11659,4670
+111517: Venteira,12156,7244,4182
+150407: Santo António da Charneca,4545,3490,752
+"150409: União das freguesias de Alto do Seixalinho, Santo André e Verderena",18669,12453,5207
+150410: União das freguesias de Barreiro e Lavradio,9666,6450,2673
+150411: União das freguesias de Palhais e Coina,1466,1094,242
+110501: Alcabideche,16605,10350,4810
+110506: São Domingos de Rana,22766,16246,4770
+110507: União das freguesias de Carcavelos e Parede,19975,13405,5019
+110508: União das freguesias de Cascais e Estoril,27119,16435,8356
+110601: Ajuda,6549,2957,3219
+110602: Alcântara,6668,2750,3487
+110654: Alvalade,14765,7633,5791
+110655: Areeiro,9452,4703,3788
+110656: Arroios,15025,6130,7674
+110657: Avenidas Novas,10432,5008,4488
+110607: Beato,5713,2258,2987
+110658: Belém,7154,4282,2294
+110608: Benfica,16488,9441,5877
+110659: Campo de Ourique,10370,4145,5480
+110610: Campolide,6636,3000,3141
+110611: Carnide,7430,4300,2601
+110660: Estrela,8921,3688,4558
+110618: Lumiar,19547,13204,4864
+110621: Marvila,14104,6351,7052
+110661: Misericórdia,4864,1631,2926
+110633: Olivais,13986,9788,3193
+110662: Parque das Nações,9023,5703,2847
+110663: Penha de França,13241,5732,6560
+110664: Santa Clara,9188,3839,4795
+110665: Santa Maria Maior,4545,1101,3134
+110666: Santo António,5163,2123,2610
+110639: São Domingos de Benfica,15852,9690,4824
+110667: São Vicente,6928,2412,4121
+110702: Bucelas,1923,1177,584
+110705: Fanhões,1088,627,309
+110707: Loures,11871,8039,3056
+110708: Lousa,1323,782,387
+"110731: União das freguesias de Camarate, Unhos e Apelação",12937,5343,6616
+110726: União das freguesias de Moscavide e Portela,9542,5715,3177
+110727: União das freguesias de Sacavém e Prior Velho,10188,5934,3724
+"110728: União das freguesias de Santa Iria de Azoia, São João da Talha e Bobadela",18046,11815,4770
+110729: União das freguesias de Santo Antão e São Julião do Tojal,3301,1931,824
+110730: União das freguesias de Santo António dos Cavaleiros e Frielas,11333,8484,2149
+110902: Carvoeira,1157,796,239
+110904: Encarnação,1814,1374,269
+110906: Ericeira,5052,3194,1375
+110909: Mafra,7929,5454,1948
+110911: Milharado,2756,2123,414
+110913: Santo Isidoro,1734,1277,262
+110918: União das freguesias de Azueira e Sobral da Abelheira,1725,1309,259
+"110919: União das freguesias de Enxara do Bispo, Gradil e Vila Franca do Rosário",1477,1084,236
+110920: União das freguesias de Igreja Nova e Cheleiros,1795,1249,397
+110921: União das freguesias de Malveira e São Miguel de Alcainça,3711,2459,1046
+110922: União das freguesias de Venda do Pinheiro e Santo Estêvão das Galés,4002,2940,711
+150601: Alhos Vedros,6495,4798,1301
+150603: Moita,7155,5322,1382
+150607: União das freguesias de Baixa da Banheira e Vale da Amoreira,12917,8132,3981
+150608: União das freguesias de Gaio-Rosário e Sarilhos Pequenos,922,627,237
+150701: Canha,605,399,84
+150704: Sarilhos Grandes,1280,814,312
+150709: União das freguesias de Atalaia e Alto Estanqueiro-Jardia,2074,1447,425
+150710: União das freguesias de Montijo e Afonsoeiro,16620,10926,4699
+150711: União das freguesias de Pegões,1525,969,337
+111603: Odivelas,24709,16772,6472
+111608: União das freguesias de Pontinha e Famões,14164,8376,4712
+111609: União das freguesias de Póvoa de Santo Adrião e Olival Basto,8058,4889,2665
+111610: União das freguesias de Ramada e Caneças,13188,9408,2826
+111002: Barcarena,5790,4417,1028
+111009: Porto Salvo,5815,3661,1752
+"111012: União das freguesias de Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",21099,14027,5644
+111013: União das freguesias de Carnaxide e Queijas,14571,10190,3511
+"111014: União das freguesias de Oeiras e São Julião da Barra, Paço de Arcos e Caxias",25738,16841,6884
+150802: Palmela,7180,5370,1240
+150803: Pinhal Novo,10580,7927,1877
+150804: Quinta do Anjo,5528,4144,940
+150806: União das freguesias de Poceirão e Marateca,3334,2330,472
+151002: Amora,20197,14247,4433
+151005: Corroios,20674,16233,3137
+151006: Fernão Ferro,7567,6356,606
+"151007: União das freguesias do Seixal, Arrentela e Aldeia de Paio Pires",19096,13887,4018
+151103: Quinta do Conde,10587,8297,1571
+151101: Sesimbra (Castelo),8048,6096,1262
+151102: Sesimbra (Santiago),1922,1028,748
+151207: Gâmbia-Pontes-Alto da Guerra,2486,2002,297
+151208: Sado,2106,1622,298
+151205: Setúbal (São Sebastião),21678,14379,5920
+151209: União das freguesias de Azeitão (São Lourenço e São Simão),7911,6378,939
+"151210: União das freguesias de Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça)",16988,10728,5064
+111102: Algueirão-Mem Martins,26946,18799,6567
+111115: Casal de Cambra,5045,2670,1924
+111105: Colares,3193,1800,1005
+111108: Rio de Mouro,19266,13958,4144
+111122: União das freguesias de Agualva e Mira-Sintra,16860,11900,3924
+"111123: União das freguesias de Almargem do Bispo, Pêro Pinheiro e Montelavar",6857,3786,2349
+111125: União das freguesias de Massamá e Monte Abraão,19616,14648,3735
+111126: União das freguesias de Queluz e Belas,20861,13939,5648
+111127: União das freguesias de São João das Lampas e Terrugem,7139,4000,2200
+"111128: União das freguesias de Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",11470,7834,2708
+111124: União das freguesias do Cacém e São Marcos,15894,10968,4017
+"111412: União das freguesias de Alhandra, São João dos Montes e Calhandriz",5138,3447,1352
+111413: União das freguesias de Alverca do Ribatejo e Sobralinho,15054,10920,3337
+111414: União das freguesias de Castanheira do Ribatejo e Cachoeiras,3238,2231,807
+111415: União das freguesias de Póvoa de Santa Iria e Forte da Casa,16182,12289,3150
+111408: Vialonga,8182,5904,1808
+111409: Vila Franca de Xira,7847,4828,2542
