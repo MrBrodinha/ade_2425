@@ -5,8 +5,8 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # === 1. Ler os ficheiros ===
-crimes = pd.read_csv(r"C:\Users\tugap\Desktop\Universidade\Masters1ºAno\2ºSemestre\ADE\Projeto\ProjectDatasets\crimes_com_nivel.csv", sep=",")
-estado_civil = pd.read_csv(r"C:\Users\tugap\Desktop\Universidade\Masters1ºAno\2ºSemestre\ADE\Projeto\ProjectDatasets\estado_civil.csv", sep=";")
+crimes = pd.read_csv(r"C:\Mestrado\1.2_ADE\ade_2425\originais\crimes_com_nivel.csv", sep=",")
+estado_civil = pd.read_csv(r"C:\Mestrado\1.2_ADE\ade_2425\originais\estado_civil.csv", sep=";")
 
 # === 2. Pré-processamento básico ===
 
@@ -39,7 +39,7 @@ X_scaled = scaler.fit_transform(df_clean[features])
 print(f"✅ Normalização feita com sucesso. Shape dos dados normalizados: {X_scaled.shape}")
 
 # === 5. Clustering ===
-kmeans = KMeans(n_clusters=3, random_state=42, n_init='auto')
+kmeans = KMeans(n_clusters=4, random_state=42, n_init='auto')
 df_clean['Cluster'] = kmeans.fit_predict(X_scaled)
 
 # Ver médias por cluster
