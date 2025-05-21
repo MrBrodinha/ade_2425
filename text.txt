@@ -6,10 +6,8 @@ technical approach
 
 the impact in the urban space
 
-Ter ideias e tentar aplicar ideias para ver
 
-- pessoas e POI, ver se crimes afetam ou não
-- têm mais visitantes ou menos visitantes - influenciar com crimes
-- scikit mobility
- - TrajDataFrame()
- - stay_locations()
+
+Dicas:
+- Tentar demonstrar movimento de pessoas durante o dia e noite
+- Compensar mais na parte de visualização de dados (AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH)
